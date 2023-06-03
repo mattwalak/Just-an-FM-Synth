@@ -5,9 +5,7 @@
   <MAINGROUP id="So6Wgb" name="Just-an-FM-Synth">
     <GROUP id="{FA184A30-E465-DCE2-DF8A-FCCC2B0AD821}" name="Source">
       <FILE id="lGjvgt" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
-      <FILE id="PTsggm" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
-      <FILE id="PaW4Q8" name="MainComponent.cpp" compile="1" resource="0"
-            file="Source/MainComponent.cpp"/>
+      <FILE id="pEIZVW" name="TheSynth.h" compile="0" resource="0" file="Source/TheSynth.h"/>
     </GROUP>
   </MAINGROUP>
   <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
